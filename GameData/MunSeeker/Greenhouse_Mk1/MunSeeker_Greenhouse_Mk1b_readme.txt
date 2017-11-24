@@ -1,3 +1,15 @@
+MunSeeker Greenhouse Mk1b TAC
+=============================
+
+* updating to use a default part with no additional texture
+* updating to use the Mk3 Crew Cabin as a more realistic model
+* updating usage and production rates
+* updating for 1.3 usage
+ 
+
+
+/* old readme below */
+
 MunSeeker Greenhouse Mk1 TAC
 ============================
 
