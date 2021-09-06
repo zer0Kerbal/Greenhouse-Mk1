@@ -1,3 +1,17 @@
+MunSeeker Greenhouse Mk1b TAC
+=============================
+
+* updated for 1.3
+* removed overlay texture
+* moved to using Mk3 fuselage
+
+To Install
+----------
+
+Drag GameData folder into the Kerbal Space Program game folder.
+
+
+
 MunSeeker Greenhouse Mk1 TAC
 ============================
 
